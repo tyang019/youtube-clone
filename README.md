@@ -1,14 +1,13 @@
 # 🎥 YouTube Clone (HTML + CSS)
 
-A responsive front-end clone of YouTube built with **HTML** and **CSS**.  
+A responsive front-end clone of YouTube built with HTML and CSS.  
 This project replicates the layout and design of YouTube’s homepage and video player page, focusing on clean UI and responsive design principles.
 
 ---
 
 ## 📸 Screenshots
 <!-- Add screenshots here -->
-![Homepage Screenshot](images/homepage.png)
-![Video Page Screenshot](images/video.png)
+Will be adding screenshots
 
 ---
 
