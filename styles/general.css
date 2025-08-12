@@ -1,0 +1,69 @@
+ p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+body{
+    font-family: 'Roboto', Arial;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgb(248, 248, 248);
+}
+
+.profile-picture-1{
+    border-radius: 50%;
+    height: 50px;
+}
+
+.channel-picture{
+    position: relative;
+    height: 0px;
+}
+.channel-picture .tooltip{
+    border-radius: 50%;
+    font-family: Roboto, Arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(243, 243, 243);
+    opacity: 0;
+    box-shadow: 1px 1px 10px rgb(195, 194, 194);
+    
+
+    display: inline-block;
+    position: relative;
+    transition: 1ms;
+
+    padding-left: 10px;
+    padding-right: 40px;
+    padding-top: 13px;
+    padding-bottom: 10px;
+
+    width: 160px;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+.channel-picture:hover .tooltip{
+    opacity: 1;
+}
+
+
+.channel-name {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.subscribers{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: blue;
+    
+}
+.channel-info{
+    vertical-align: top;
+}
